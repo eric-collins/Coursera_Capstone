@@ -1,0 +1,4 @@
+In this problem, a group of angel investors has tasked my analysis company to determine what types of companies in Daytona Beach, Florida, are trending. 
+They want to be able to invest in trending companies to make the most money possible.  They are particularly interested in non-chain coffeehouses, and local breweries/distilleries. 
+
+For data, I will be relying heavily on the Foursquare API, and it’s ‘trending’ calls to make determinations on what is trending in the area. 
